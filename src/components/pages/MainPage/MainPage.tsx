@@ -5,7 +5,7 @@ import Stack from "@mui/material/Stack";
 
 interface MainPageProps {
   title: string;
-  children: React.ReactNode;
+  children?: React.ReactNode;
 }
 export function MainPage({ title, children }: MainPageProps) {
   return (

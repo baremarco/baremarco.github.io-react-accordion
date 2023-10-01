@@ -26,7 +26,7 @@ const NODES: Array<INodeProps> = [
   },
   {
     id: "4",
-    title: "Node",
+    title: "Local Node",
     subtitle: "http://localhost:8080",
     status: "on",
     description:
