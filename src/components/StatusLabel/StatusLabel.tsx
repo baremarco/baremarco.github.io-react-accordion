@@ -1,7 +1,7 @@
 import Typography from "@mui/material/Typography";
 import CircleRoundedIcon from "@mui/icons-material/CircleRounded";
 import Stack from "@mui/material/Stack";
-import { EStatus, TStatus } from "../../types";
+import { EStatus, TStatus } from "../../types/index.d";
 
 interface IStatusLabelProps {
   status: TStatus;
